@@ -28,6 +28,10 @@ Software de controle de versão.
 Uma ramificação no git é um ponteiro para as alterações feitas nos
 arquivos do projeto, ou seja uma branch é uma ramificação do seu projeto.
 
+7.O que é Pull Request?
+
+Permitem que você informe outras pessoas sobre as
+alterações das quais você fez push para um branch em um repositório no GitHub.
 
 
 
