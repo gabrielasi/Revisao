@@ -11,3 +11,13 @@ Quais linguagens posso utilizar quando trabalho com o github?
 
 Qualquer tipo de linguagem.
 
+O que é um  repositorio?
+
+A pasta onde será colocado os arquivos do projeto.
+
+Os códigos que colocam no Github estaram sempre disponiveis as todos os usuarios da web?
+
+Se estiver em público, sim.   
+
+
+
