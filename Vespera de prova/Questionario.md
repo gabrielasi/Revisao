@@ -11,3 +11,7 @@ Quais linguagens posso utilizar quando trabalho com o github?
 
 Qualquer tipo de linguagem.
 
+O que é um repositório?
+
+A pasta onde será colocado os arquivos do projeto.
+
