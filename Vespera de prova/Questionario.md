@@ -33,5 +33,9 @@ arquivos do projeto, ou seja uma branch é uma ramificação do seu projeto.
 Permitem que você informe outras pessoas sobre as
 alterações das quais você fez push para um branch em um repositório no GitHub.
 
+8.O que é fork?
+
+É uma cópia de um repositório de outro usuário. 
+
 
 
