@@ -19,5 +19,9 @@ Os códigos que colocam no Github estaram sempre disponiveis as todos os usuario
 
 Se estiver em público, sim.   
 
+O que é VCS?
+
+Software de controle de versão.
+
 
 
