@@ -37,5 +37,10 @@ alterações das quais você fez push para um branch em um repositório no GitHu
 
 É uma cópia de um repositório de outro usuário. 
 
+9. O que é Clone?
+
+Pegar o repositório remoto e clonar para o repositório local.
+ 
+
 
 
